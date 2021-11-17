@@ -13,13 +13,13 @@ Sannsynligvis også 8. og 15. desember.
 Ubestemt, Ole Johan Dahls hus, Gaustadalléen 23b
 
 ## Hva er Advent of Code?
-Hver dag i desember legges det ut en ny nøtt. Klarer man den, får man en til. Maks 2 oppgaver om dagen. Ingen krav til kjøretid, minne, programmeringsspråk og lignende (?). Link [her](https://adventofcode.com/). \
+Hver dag i desember legges det ut en ny nøtt. Klarer man den, får man en til. Maks 2 oppgaver om dagen. Ingen krav til kjøretid, minne, programmeringsspråk og lignende (?). Link [her](https://adventofcode.com/).
 
 Man kan også gå tilbake å gjøre oppgaver fra tidligere år om man har lyst
 
 ## Ekstra
-Mange vil også legge ut løsningene sine, fordi det er gøy.
-Link til noen man kan sjekke ut:
-[Sarek](https://github.com/sarsko)
+Mange vil også legge ut løsningene sine, fordi det er gøy. Link til noen man kan sjekke ut:
+
+[Sarek](https://github.com/sarsko) \
+[Sondre](https://github.com/sondresl/AdventOfCode) \
 [Sergey](https://github.com/sergiosja/AdventOfCode)
-[Sondre](https://github.com/sondresl/AdventOfCode)
