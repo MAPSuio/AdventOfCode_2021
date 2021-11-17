@@ -6,8 +6,8 @@ Et sted å ha det sosialt med programmering. \
 Ingen krav til å programmere, kun ment for å ha det hyggelig, men vi vil gå gjennom noen løsningsforslag til oppgavene, fordi det er gøy😀
 
 ## Når?
-Første dag blir 2. desember.
-Sannsynligvis også 8. og 15. desember.
+AoC ruller naturligvis på hver dag, men vi leier et rom på IFI og holder til der i noen timer. \
+Første dag blir 2. desember. Sannsynligvis også 8. og 15. desember.
 
 ## Hvor?
 Ubestemt, Ole Johan Dahls hus, Gaustadalléen 23b
