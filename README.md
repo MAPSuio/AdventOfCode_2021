@@ -9,7 +9,7 @@ En god mulighet til å ta et avbrekk fra eksamenslesing, uten å forlate skuta h
 
 - Lag en bruker på Advent of Code
 - Gå inn på [https://adventofcode.com/2021/leaderboard/private](https://adventofcode.com/2021/leaderboard/private)
-- Lim inn 1016070-25050589 i boksen og trykk "Join"
+- Lim inn `1016070-25050589` i boksen og trykk "Join"
 - Bli med på vår [Discord](https://discord.gg/VWr6Xj3QZS) for å ha et sted å diskutere oppgavene.
 
 ## Når?
