@@ -10,7 +10,7 @@ Man kan løse så mange eller få oppgaver man vil
 - Lim inn 1016070-25050589 i boksen og trykk "Join"
 - Bli med på vår [Discord](https://discord.gg/VWr6Xj3QZS) for å ha et sted å diskutere oppgavene.
 
-Møt også opp på ROM klokka XX:XX den 3. desember :)
+I tillegg blir det vin, gløgg og pepperkaker på ROM klokka XX:XX hver fredag :)
 
 ## Jeg vet ikke om Advent of Code er noe for meg
 
