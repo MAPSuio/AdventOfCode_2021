@@ -15,7 +15,7 @@ Ubestemt, Ole Johan Dahls hus, Gaustadalléen 23b.
 
 
 ## Hva er egentlig Advent of Code?
-En julekalender for store og små! Hver dag i desember legges det ut en ny nøtt. [comment]: <> (Klarer man den, får man én til.)
+En julekalender for store og små! Hver dag i desember legges det ut en ny nøtt.
 
 Her er det ingen krav til kjøretid, minnebruk, programmeringsspråk eller lignende. Alt du må gjøre er å lese inn data fra en fil, lage et program som løser problemet, og forhåpentligvis ende på det riktige svaret :)
 
