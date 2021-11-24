@@ -22,7 +22,7 @@ Her er det ingen krav til kjøretid, minnebruk, programmeringsspråk eller ligne
 Man kan også gjøre oppgaver fra [tidligere år](https://adventofcode.com/2021/events) om man har lyst, og oppgavene går aldri ut på dato. Sjekk for eksempel ut [dag 1](https://adventofcode.com/2020/day/1) og [dag 2](https://adventofcode.com/2020/day/2) fra i fjor😄
 
 
-### Hmm, okey da! Hvordan deltar man?
+### Hvordan deltar man?
 - Verifiser deg på [Advent of Code](https://adventofcode.com/)
 - Gå inn på [https://adventofcode.com/2021/leaderboard/private](https://adventofcode.com/2021/leaderboard/private)
 - Lim inn `1016070-25050589` i boksen og trykk "Join"
