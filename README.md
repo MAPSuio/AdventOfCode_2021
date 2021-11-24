@@ -5,13 +5,6 @@ Vi i MAPS tilbyr et lavterskel tilbud for de som har lyst til å prøve seg i å
 
 En god mulighet til å ta et avbrekk fra eksamenslesing, uten å forlate skuta helt!
 
-## TLDR:
-
-- Verifiser deg på [Advent of Code](https://adventofcode.com/)
-- Gå inn på [https://adventofcode.com/2021/leaderboard/private](https://adventofcode.com/2021/leaderboard/private)
-- Lim inn `1016070-25050589` i boksen og trykk "Join"
-- Bli med på vår [Discord](https://discord.gg/VWr6Xj3QZS) for å ha et sted å diskutere oppgavene.
-
 ## Når?
 AoC ruller naturligvis på, og vi kommer til å diskutere oppgaver omtrent hver dag. \
 I tillegg vil vi leie et rom på IFI hver fredag fram mot jul og holde fysisk opplegg i noen timer😄
@@ -27,6 +20,13 @@ En julekalender for store og små! Hver dag i desember legges det ut en ny nøtt
 Her er det ingen krav til kjøretid, minnebruk, programmeringsspråk eller lignende. Alt du må gjøre er å lese inn data fra en fil, implementere et program som løser problemet, og forhåpentligvis ende på det riktige svaret :)
 
 Man kan også gjøre oppgaver fra [tidligere år](https://adventofcode.com/2021/events) om man har lyst, og oppgavene går aldri ut på dato.
+
+
+## Hvordan deltar man?
+- Verifiser deg på [Advent of Code](https://adventofcode.com/)
+- Gå inn på [https://adventofcode.com/2021/leaderboard/private](https://adventofcode.com/2021/leaderboard/private)
+- Lim inn `1016070-25050589` i boksen og trykk "Join"
+- Bli med i vår [Discord](https://discord.gg/VWr6Xj3QZS) for å ha et sted å diskutere oppgavene.
 
 
 ## Hva skjer på fredagene?
