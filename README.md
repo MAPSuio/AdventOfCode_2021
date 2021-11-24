@@ -7,11 +7,11 @@ Vi vil varte opp med gløgg og vin, pepperkaker og nøtter, samt god julestemnin
 En god mulighet til å ta et avbrekk fra eksamenslesing, uten å forlate skuta helt!
 
 ## Når?
-Det kommer en ny nøtt på Advent of Code hver dag, som vi(og kanskje du?) kommer til å diskutere i vår [Discord](https://discord.gg/VWr6Xj3QZS). \
-I tillegg vil vi booke et rom på IFI hver fredag fram mot jul og holde fysisk opplegg i noen timer😄
+Det blir lagt ut en ny nøtt på [nettsiden](https://adventofcode.com/) hver dag, som vi (og kanskje du?) kommer til å diskutere i vår [Discord](https://discord.gg/VWr6Xj3QZS). \
+I tillegg vil vi møtes på Java hver fredag fram mot jul og holde fysisk opplegg i noen timer😄
 
 ## Hvor?
-Ubestemt, Ole Johan Dahls hus, Gaustadalléen 23b.
+[Java](https://ifirom.no/2/2423), Ole Johan Dahls hus, Gaustadalléen 23b.
 
 
 ## Hva er egentlig Advent of Code?
