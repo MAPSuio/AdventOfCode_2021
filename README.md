@@ -19,10 +19,7 @@ En julekalender for store og små! Hver dag i desember legges det ut en ny nøtt
 
 Her er det ingen krav til kjøretid, minnebruk, programmeringsspråk eller lignende. Alt du må gjøre er å lese inn data fra en fil, implementere et program som løser problemet, og forhåpentligvis ende på det riktige svaret :)
 
-Man kan også gjøre oppgaver fra [tidligere år](https://adventofcode.com/2021/events) om man har lyst, og oppgavene går aldri ut på dato.
-
-### Hvordan vet jeg om dette er noe for meg?
-Du kan f.eks. sjekke ut [dag 1](https://adventofcode.com/2020/day/1) og [dag 2](https://adventofcode.com/2020/day/2) fra i fjor😄
+Man kan også gjøre oppgaver fra [tidligere år](https://adventofcode.com/2021/events) om man har lyst, og oppgavene går aldri ut på dato. Sjekk for eksempel ut [dag 1](https://adventofcode.com/2020/day/1) og [dag 2](https://adventofcode.com/2020/day/2) fra i fjor😄
 
 
 ### Hmm, okey da! Hvordan deltar man?
