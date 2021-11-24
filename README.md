@@ -1,25 +1,25 @@
 # Advent of Code 2021
 I år som i fjor, sparkes [Advent of Code](https://adventofcode.com/) i gang 1. desember.
 
-Vi i MAPS tilbyr et lavterskel tilbud for de som har lyst til å prøve seg i år, og i tillegg gjøre det litt sosialt! Vi vil varte opp med gløgg og vin, pepperkaker og nøtter, samt god julestemning noen dager i løpet av måneden.
+Vi i MAPS tilbyr et lavterskel tilbud for de som har lyst til å prøve seg i år, og i tillegg ha det litt sosialt! 
+Vi vil varte opp med gløgg og vin, pepperkaker og nøtter, samt god julestemning hver fredag i desember.
 
 En god mulighet til å ta et avbrekk fra eksamenslesing, uten å forlate skuta helt!
 
 ## Når?
-AoC ruller naturligvis på, og vi kommer til å diskutere oppgaver omtrent hver dag. \
-I tillegg vil vi leie et rom på IFI hver fredag fram mot jul og holde fysisk opplegg i noen timer😄
-
+Det kommer en ny nøtt på Advent of Code hver dag, og vi kommer til å diskutere den i vår [Discord](https://discord.gg/VWr6Xj3QZS). \
+I tillegg vil vi booke et rom på IFI hver fredag fram mot jul og holde fysisk opplegg i noen timer😄
 
 ## Hvor?
 Ubestemt, Ole Johan Dahls hus, Gaustadalléen 23b.
 
 
 ## Hva er egentlig Advent of Code?
-En julekalender for store og små! Hver dag i desember legges det ut en ny nøtt. Klarer man den, får man én til.
+En julekalender for store og små! Hver dag i desember legges det ut en ny nøtt. [comment]: <> (Klarer man den, får man én til.)
 
-Her er det ingen krav til kjøretid, minnebruk, programmeringsspråk eller lignende. Alt du må gjøre er å lese inn data fra en fil, implementere et program som løser problemet, og forhåpentligvis ende på det riktige svaret :)
+Her er det ingen krav til kjøretid, minnebruk, programmeringsspråk eller lignende. Alt du må gjøre er å lese inn data fra en fil, lage et program som løser problemet, og forhåpentligvis ende på det riktige svaret :)
 
-Man kan også gjøre oppgaver fra [tidligere år](https://adventofcode.com/2021/events) om man har lyst, og oppgavene går aldri ut på dato. Sjekk for eksempel ut [dag 1](https://adventofcode.com/2020/day/1) og [dag 2](https://adventofcode.com/2020/day/2) fra i fjor😄
+Usikker på om Advent of Code er noe for deg? Da kan du sjekke ut [tidligere år](https://adventofcode.com/2021/events), her er for eksempel ut [dag 1](https://adventofcode.com/2020/day/1) og [dag 2](https://adventofcode.com/2020/day/2) fra i fjor😄
 
 
 ### Hvordan deltar man?
@@ -32,11 +32,11 @@ Man kan også gjøre oppgaver fra [tidligere år](https://adventofcode.com/2021/
 ### Hva skjer på fredagene?
 Vi varter opp med blant annet pepperkaker, nøtter, gløgg og vin! Det blir en uhøytidelig sammenkomst for å snakke om løst og fast, få julestemning sammen, og bare ha et hyggelig avbrekk fra eksamenslesingen. I tillegg møter du kanskje noen du ikke kjente fra før!
 
-Vi vil nok også se litt på dagens nøtt og eventuelt hvordan man kan løse den😄
+Vi vil nok også se litt på nøttene som har vært til da, og eventuelt hvordan man kan løse de😄
 
 
 ### Må jeg ha gjort ferdig dagens oppgave før jeg kommer?
-Neida, du kan møte opp uavhengig av hvor mange oppgaver du har løst! Dette er bare ment for å ha det sosialt og hyggelig, men det vil nok være folk som snakker om hvordan de har løst oppgavene.
+Neida, du kan møte opp uavhengig av hvor mange oppgaver du har løst! Dette er bare ment for å ha det sosialt og hyggelig, men også en anledning til å diskutere oppgavene har vært, vise fram gode og mindre gode løsninger, og eventuelt få litt hjelp om det er noen oppgaver man står fast på.
 
 Med andre ord: Alle er hjertelig velkomne! Uavhengig om du er fornøyd med en av løsningene dine, trenger litt hjelp med noe, eller bare vil ha det trivelig!
 
@@ -44,6 +44,6 @@ Med andre ord: Alle er hjertelig velkomne! Uavhengig om du er fornøyd med en av
 ## Annet
 Mange vil også legge ut løsningene sine, fordi det er gøy. Link til noen man kan sjekke ut:
 
-[Sarek](https://github.com/sarsko) \
+[Sarek](https://github.com/sarsko/aoc-2020) \
 [Sondre](https://github.com/sondresl/AdventOfCode) \
 [Sergey](https://github.com/sergiosja/AdventOfCode)
