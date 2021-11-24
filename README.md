@@ -22,26 +22,26 @@ Her er det ingen krav til kjøretid, minnebruk, programmeringsspråk eller ligne
 Man kan også gjøre oppgaver fra [tidligere år](https://adventofcode.com/2021/events) om man har lyst, og oppgavene går aldri ut på dato.
 
 
-## Hvordan deltar man?
+### Hvordan deltar man?
 - Verifiser deg på [Advent of Code](https://adventofcode.com/)
 - Gå inn på [https://adventofcode.com/2021/leaderboard/private](https://adventofcode.com/2021/leaderboard/private)
 - Lim inn `1016070-25050589` i boksen og trykk "Join"
 - Bli med i vår [Discord](https://discord.gg/VWr6Xj3QZS) for å ha et sted å diskutere oppgavene.
 
 
-## Hva skjer på fredagene?
+### Hva skjer på fredagene?
 Vi varter opp med blant annet pepperkaker, nøtter, gløgg og vin! Det blir en uhøytidelig sammenkomst for å snakke om løst og fast, få julestemning sammen, og bare ha et hyggelig avbrekk fra eksamenslesingen. I tillegg møter du kanskje noen du ikke kjente fra før!
 
 Vi vil nok også se litt på dagens nøtt og eventuelt hvordan man kan løse den😄
 
 
-## Må jeg ha gjort ferdig dagens oppgave før jeg kommer?
+### Må jeg ha gjort ferdig dagens oppgave før jeg kommer?
 Neida, du kan møte opp uavhengig av hvor mange oppgaver du har løst! Dette er bare ment for å ha det sosialt og hyggelig, men det vil nok være folk som snakker om hvordan de har løst oppgavene.
 
 Med andre ord: Alle er hjertelig velkomne! Uavhengig om du er fornøyd med en av løsningene dine, trenger litt hjelp med noe, eller bare vil ha det trivelig!
 
 
-## Ekstra
+## Annet
 Mange vil også legge ut løsningene sine, fordi det er gøy. Link til noen man kan sjekke ut:
 
 [Sarek](https://github.com/sarsko) \
