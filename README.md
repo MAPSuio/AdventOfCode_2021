@@ -5,6 +5,13 @@ Vi i MAPS tilbyr et lavterskel tilbud for de som har lyst til å prøve seg i å
 
 En god mulighet til å ta et avbrekk fra eksamenslesing, uten å forlate skuta helt!
 
+# TLDR:
+
+- Lag en bruker på Advent of Code
+- Gå inn på [https://adventofcode.com/2021/leaderboard/private](https://adventofcode.com/2021/leaderboard/private)
+- Lim inn 1016070-25050589 i boksen og trykk "Join"
+- Bli med på vår [Discord](https://discord.gg/VWr6Xj3QZS) for å ha et sted å diskutere oppgavene.
+
 ## Når?
 AoC ruller naturligvis på hver dag, men vi leier et rom på IFI og holder til der i noen timer. \
 Første dag blir 2. desember. Sannsynligvis også 8. og 15. desember.
