@@ -17,7 +17,7 @@ I tillegg vil vi møtes på Java kl. `16:15` hver fredag fram mot jul og ha et f
 ## Hva er egentlig Advent of Code?
 En julekalender for store og små! Hver dag i desember legges det ut en ny nøtt.
 
-Her er det ingen krav til kjøretid, minnebruk, programmeringsspråk eller lignende. Alt du må gjøre er å lese inn data fra en fil, lage et program som løser problemet, og forhåpentligvis ende på det riktige svaret :)
+Her er det ingen krav til kjøretid, minnebruk, programmeringsspråk eller lignende. Alt du må gjøre er å lese inn data fra en fil, lage et lite program som løser et problem, og forhåpentligvis ende på det riktige svaret :)
 
 Usikker på om Advent of Code er noe for deg? Da kan du sjekke ut [tidligere år](https://adventofcode.com/2021/events), her er for eksempel [dag 1](https://adventofcode.com/2020/day/1) og [dag 2](https://adventofcode.com/2020/day/2) fra i fjor😄
 
