@@ -32,13 +32,13 @@ Usikker på om Advent of Code er noe for deg? Da kan du sjekke ut [tidligere år
 ### Hva skjer på fredagene?
 Vi varter opp med blant annet pepperkaker, nøtter, gløgg og vin! Det blir en uhøytidelig sammenkomst for å snakke om løst og fast, få julestemning sammen, og bare ha et hyggelig avbrekk fra eksamenslesingen. I tillegg møter du kanskje noen du ikke kjente fra før!
 
-Vi vil nok også se litt på nøttene som har vært til da, og eventuelt hvordan man kan løse de😄
+Vi vil nok også se litt på oppgavene som har vært til da, og eventuelt hvordan man kan løse de😄
 
 
 ### Må jeg ha gjort ferdig dagens oppgave før jeg kommer?
-Neida, du kan møte opp uavhengig av hvor mange oppgaver du har løst! Dette er bare ment for å ha det sosialt og hyggelig, men også en anledning til å diskutere oppgavene som har vært, vise fram gode og mindre gode løsninger, og eventuelt få litt hjelp om det er noen oppgaver man står fast på.
+Neida, du kan møte opp uavhengig av hvor mange oppgaver du har løst! Dette er hovedsakelig ment for å ha det sosialt og hyggelig, men *også* en anledning til å diskutere oppgavene som har vært, vise fram gode og mindre gode løsninger, og eventuelt få litt hjelp om det er noe man står fast på.
 
-Med andre ord: Alle er hjertelig velkomne! Uavhengig om du er fornøyd med en av løsningene dine, trenger litt hjelp med noe, eller bare vil ha det trivelig!
+Med andre ord: Alle er hjertelig velkomne!
 
 
 ## Annet
