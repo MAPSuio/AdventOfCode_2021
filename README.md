@@ -1,18 +1,14 @@
 # Advent of Code 2021
 I år som i fjor, sparkes [Advent of Code](https://adventofcode.com/) i gang 1. desember.
 
-Vi i MAPS tilbyr et lavterskel tilbud for de som har lyst til å prøve seg i år, og i tillegg ha det litt sosialt! 
-Vi vil varte opp med gløgg og vin, pepperkaker og nøtter, samt god julestemning hver fredag i desember.
+Vi i MAPS presenterer et lavterskel tilbud for de som har lyst til å prøve seg, og i tillegg ha det litt sosialt.
+Vi vil varte opp med gløgg og vin, pepperkaker og nøtter, samt god julestemning hver fredag frem til jul!
 
-En god mulighet til å ta et avbrekk fra eksamenslesing, uten å forlate skuta helt!
+En god mulighet til å ta et avbrekk fra eksamenslesing, uten å forlate skuta helt🎆
 
-## Når?
+## Når? Hvor?
 Det blir lagt ut en ny nøtt på [nettsiden](https://adventofcode.com/) hver dag, som vi (og kanskje du?) kommer til å diskutere i vår [Discord](https://discord.gg/VWr6Xj3QZS). \
-I tillegg vil vi møtes på Java kl. `16:15` hver fredag fram mot jul og ha et fysisk opplegg i noen timer😄
-
-## Hvor?
-[Java](https://ifirom.no/2/2423), Ole Johan Dahls hus, Gaustadalléen 23b.
-
+3., 10. og 17. desember møtes vi på [Java](https://ifirom.no/2/2423), Ole Johan Dahls hus kl. `16:15`😄
 
 ## Hva er egentlig Advent of Code?
 En julekalender for store og små! Hver dag i desember legges det ut en ny nøtt.
