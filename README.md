@@ -8,7 +8,7 @@ En god mulighet til å ta et avbrekk fra eksamenslesing, uten å forlate skuta h
 
 ## Når?
 Det blir lagt ut en ny nøtt på [nettsiden](https://adventofcode.com/) hver dag, som vi (og kanskje du?) kommer til å diskutere i vår [Discord](https://discord.gg/VWr6Xj3QZS). \
-I tillegg vil vi møtes på Java kl. `16:15` hver fredag fram mot jul og holde fysisk opplegg i noen timer😄
+I tillegg vil vi møtes på Java kl. `16:15` hver fredag fram mot jul og har et fysisk opplegg i noen timer😄
 
 ## Hvor?
 [Java](https://ifirom.no/2/2423), Ole Johan Dahls hus, Gaustadalléen 23b.
@@ -36,13 +36,13 @@ Vi vil nok også se litt på nøttene som har vært til da, og eventuelt hvordan
 
 
 ### Må jeg ha gjort ferdig dagens oppgave før jeg kommer?
-Neida, du kan møte opp uavhengig av hvor mange oppgaver du har løst! Dette er bare ment for å ha det sosialt og hyggelig, men også en anledning til å diskutere oppgavene har vært, vise fram gode og mindre gode løsninger, og eventuelt få litt hjelp om det er noen oppgaver man står fast på.
+Neida, du kan møte opp uavhengig av hvor mange oppgaver du har løst! Dette er bare ment for å ha det sosialt og hyggelig, men også en anledning til å diskutere oppgavene som har vært, vise fram gode og mindre gode løsninger, og eventuelt få litt hjelp om det er noen oppgaver man står fast på.
 
 Med andre ord: Alle er hjertelig velkomne! Uavhengig om du er fornøyd med en av løsningene dine, trenger litt hjelp med noe, eller bare vil ha det trivelig!
 
 
 ## Annet
-Mange vil også legge ut løsningene sine, fordi det er gøy. Link til noen man kan sjekke ut:
+Mange legger også ut løsningene sine. Link til noen man kan sjekke ut:
 
 [Sarek](https://github.com/sarsko/aoc-2020) \
 [Sondre](https://github.com/sondresl/AdventOfCode) \
