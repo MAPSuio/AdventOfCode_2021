@@ -6,9 +6,9 @@ Vi vil varte opp med gløgg og vin, pepperkaker og nøtter, samt god julestemnin
 
 En god mulighet til å ta et avbrekk fra eksamenslesing, uten å forlate skuta helt🎆
 
-## Når? Hvor?
+## Når og hvor?
 Det blir lagt ut en ny nøtt på [nettsiden](https://adventofcode.com/) hver dag, som vi (og kanskje du?) kommer til å diskutere i vår [Discord](https://discord.gg/VWr6Xj3QZS). \
-3., 10. og 17. desember møtes vi på [Java](https://ifirom.no/2/2423), Ole Johan Dahls hus kl. `16:15`😄
+3., 10. og 17. desember henger vi på [Java](https://ifirom.no/2/2423), Ole Johan Dahls hus kl. `16:15`😄
 
 ## Hva er egentlig Advent of Code?
 En julekalender for store og små! Hver dag i desember legges det ut en ny nøtt.
