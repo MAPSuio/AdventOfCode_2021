@@ -41,6 +41,7 @@ Med andre ord: Alle er hjertelig velkomne!
 Mange legger også ut løsningene sine. Link til noen man kan sjekke ut:
 
 [Sarek](https://github.com/sarsko/aoc-2020), leder i MAPS \
+[Dan](https://github.com/danbanan/AOC-2021), nestleder i MAPS \
 [Sondre](https://github.com/sondresl/AdventOfCode), tidligere leder i MAPS \
 [Birk](https://github.com/birkhogstad/AoC-21), styremedlem i MAPS \
 [Sergey](https://github.com/sergiosja/AdventOfCode), styremedlem i MAPS \
