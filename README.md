@@ -45,4 +45,5 @@ Mange legger også ut løsningene sine. Link til noen man kan sjekke ut:
 [Sondre](https://github.com/sondresl/AdventOfCode), tidligere leder i MAPS \
 [Birk](https://github.com/birkhogstad/AoC-21), styremedlem i MAPS \
 [Sergey](https://github.com/sergiosja/AdventOfCode), styremedlem i MAPS \
-[Vegard](https://github.com/vegarsti/aoc2021), tidligere styremedlem i MAPS
+[Vegard](https://github.com/vegarsti/aoc2021), tidligere styremedlem i MAPS \
+[Jakob](https://github.com/jakobkhansen/AdventOfCode), gruppelærer i IN2010
