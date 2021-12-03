@@ -20,7 +20,7 @@ Usikker på om Advent of Code er noe for deg? Da kan du sjekke ut [tidligere år
 
 ### Hvordan deltar man?
 - Verifiser deg på [nettsiden](https://adventofcode.com/)
-- Gå inn på [https://adventofcode.com/2021/leaderboard/private](https://adventofcode.com/2021/leaderboard/private)
+- Gå til [leaderboardet](https://adventofcode.com/2021/leaderboard/private)
 - Lim inn `1016070-25050589` i boksen og trykk "Join"
 - Bli med i vår [Discord](https://discord.gg/VWr6Xj3QZS) for å ha et sted å diskutere oppgavene.
 
