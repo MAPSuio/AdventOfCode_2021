@@ -40,10 +40,10 @@ Med andre ord: Alle er hjertelig velkomne!
 ## Annet
 Mange legger også ut løsningene sine. Link til noen man kan sjekke ut:
 
-[Sarek](https://github.com/sarsko/AdventOfCode), leder i MAPS `Python` `Haskell` \
+[Sarek](https://github.com/sarsko/AdventOfCode), leder i MAPS `Haskell` `Python` \
 [Dan](https://github.com/danbanan/AOC-2021), nestleder i MAPS `C++` \
 [Sondre](https://github.com/sondresl/AdventOfCode), tidligere leder i MAPS `Haskell` `Scheme` \
 [Birk](https://github.com/birkhogstad/AoC-21), styremedlem i MAPS `Java` \
-[Sergey](https://github.com/sergiosja/AdventOfCode), styremedlem i MAPS `Kotlin` `Scheme` \
+[Sergey](https://github.com/sergiosja/AdventOfCode), styremedlem i MAPS `Kotlin` `Python` `Scheme` \
 [Vegard](https://github.com/vegarsti/aoc2021), tidligere styremedlem i MAPS `Zig` \
 [Jakob](https://github.com/jakobkhansen/AdventOfCode), gruppelærer i IN2010 `C++`
