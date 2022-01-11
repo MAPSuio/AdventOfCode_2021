@@ -48,4 +48,4 @@ Mange legger også ut løsningene sine. Link til noen man kan sjekke ut:
 [Sivert](https://github.com/sivertschou/adventofcode/tree/master/2021), tidligere styremedlem i MAPS `JavaScript` \
 [Vegard](https://github.com/vegarsti/aoc2021), tidligere styremedlem i MAPS `Zig` \
 [Jakob](https://github.com/jakobkhansen/AdventOfCode), gruppelærer i IN2010 `C++` \
-[Magnus](https://github.com/magnuskalland/advent-of-code), gruppelærer i IN2010 `C++` `Java` `C` `Powershell` `JavaScript`
+[Magnus](https://github.com/magnuskalland/advent-of-code), gruppelærer i IN2010 `Alt du kan tenke deg`
